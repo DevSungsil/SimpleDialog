@@ -10,11 +10,13 @@ SimpleDialog
 
 ## 시작하기
 
-SimpleDialog 매우 쉽게 사용할 수 있습니다.
+SimpleDialog는 매우 쉽게 사용할 수 있습니다.
 
-먼저 SimpleDialog 다운로드 합니다. [SimpleDialog 다운로드하기](https://github.com/DevSungsil/SimpleDialog/archive/master.zip)
+먼저 SimpleDialog를 다운로드 합니다. [SimpleDialog 다운로드하기](https://github.com/DevSungsil/SimpleDialog/archive/master.zip)
 
-다운로드를 완료하였으면 헤드 영역에 다음과 같이 HTML 태그를 추가합니다.
+다운로드를 완료하였으면 적당한 위치에 css파일과 js 파일을 복사/이동시킵니다.
+
+다음으로 헤드 영역에 다음과 같이 HTML 태그를 추가합니다.
 ```html
 <link rel="stylesheet" href="path/to/your/sdialog.css">
 ```
