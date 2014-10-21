@@ -2,6 +2,7 @@ SimpleDialog
 ============
 
 간단하고 손쉬운 JavaScript 다이얼로그로 기존 브라우저가 제공하는 다이얼로그(Alert, Confirm)창을 브라우저가 제공하는 모양대신 사용자가 스타일을 정의하여 사용할 수 있습니다.
+[데모 페이지](http://devsungsil.github.io/SimpleDialog)
 
 #중요함
 
